@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "40cb868fa205e796",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tesseract-ocr mailing list archive - part 8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tesseract-ocr mailing list archive - part 7.md",
+                "file": "tesseract-ocr mailing list archive - part 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tesseract-ocr mailing list archive - part 7.md",
+                "file": "tesseract-ocr mailing list archive - part 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tesseract-ocr mailing list archive - part 7.md"
+                "file": "tesseract-ocr mailing list archive - part 8.md"
               }
             }
           }
@@ -146,10 +159,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04144f540dff05e6",
+  "active": "829818be94b04ca0",
   "lastOpenFiles": [
-    "tesseract-ocr mailing list archive - part 6.md",
+    "BC43AE8.tmp",
+    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjUmfYjv-eIF_k5pB3N-qbP0VsLrlXebDxk-YegiQY6_1f1d=s28-c.html",
+    "raw-grabs/https/groups.google.com/g/tesseract-ocr/c/N19auKZKX2Q.html",
+    "raw-grabs/https/groups.google.com/g/tesseract-ocr/c/N0OPBCliGis.html",
+    "raw-grabs/https/groups.google.com/g/tesseract-ocr/c/N0Aw-M8wsv0.html",
+    "raw-grabs/https/groups.google.com/g/tesseract-ocr/c/N_zA7650uPM.html",
+    "raw-grabs/https/groups.google.com/g/tesseract-ocr/c/N_VC_9Z3xxY.html",
+    "raw-grabs/https/groups.google.com/g/tesseract-ocr/c/n_t58YKPet4.html",
+    "raw-grabs/https/groups.google.com/g/tesseract-ocr/c/N_OXu0gLLGw.html",
+    "raw-grabs/https/groups.google.com/g/tesseract-ocr/c/MzzHGwwzclk.html",
+    "raw-grabs/https/groups.google.com/g/tesseract-ocr/c/mzVwxSRPGSA.html",
+    "raw-grabs/https/lh3.googleusercontent.com/a/default-user=s28-c.png",
+    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjXZzHFvBEyyM_jYoqHjzY0CrNcabFrnyHYCQ1UrM9vV7njPpg=s28-c.png",
+    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjXzyvi-vwHWU-SmkDcfqGAjQ51moPxhAGPuQxOSQGoaThg=s28-c.jpeg",
+    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjXzX2oVP-HoxTmlq9a-0N2SFhk6u0VSgIHfNOIAb7nlmnI=s28-c.jpeg",
+    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjXZVRwY1NaDvo6vw1ld2luFA228hQ1_d2IkxeFCGivm=s28-c.png",
+    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjXzSRc2ReOD0JNyWfPUlH5HYbVHVVYbuJ5tVkvG1ZkX=s28-c.png",
+    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjXZpeQeeWuDDJRY-xsA52S9y-oWKaz7XeLvIKHVpMmxo9A=s28-c.jpeg",
+    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjXZNDsAbxXNyau7_ZX-YrYSTrJaLVtCpdtaQWuKw2dunH7d=s28-c.jpeg",
+    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjXzKX7-35jZHwXAfg4p2f386BDttJcvfEfTTD15vJxGz-0=s28-c.png",
+    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjXZKLSKrsfQy-xGRIaGq9j5uhbU5RvMcPT_uwl3IA64A-0=s28-c.jpeg",
     "tesseract-ocr mailing list archive - part 7.md",
-    "tesseract-ocr mailing list archive - part 1.md"
+    "tesseract-ocr mailing list archive - part 8.md",
+    "README.md",
+    "tesseract-ocr mailing list archive - part 1.md",
+    "tesseract-ocr mailing list archive - part 6.md"
   ]
 }
