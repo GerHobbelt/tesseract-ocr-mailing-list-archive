@@ -3,9 +3,16 @@
 # collect all URLs from the tesseract mailing list web page dumps (Mechanical Turked)
 pushd utils							> /dev/null
 
-cat ../*.md | sed -e 's/http:/ http:/g' | tr ' ()#' '\n' | sort | uniq | grep -e 'http[^/]*//[^/]*/' > raw-source.urls
+cat > filter-all-urls.sed  <<'EOF'
+s/[?]part$//
+s/=s40-c$//
+s/=s28-c$//
+EOF
+
+cat ../*.md | sed -e 's/http:/ http:/g' -e 's/https:/ https:/g' | tr ' ()#' '\n' | sort | uniq | grep -E -e 'https?://[^/]*/' > raw-source.urls
 cat raw-source.urls | grep -E -e 'googleusercontent|groups\.google' -v > ignored-source.urls
-cat raw-source.urls | grep -E -e 'googleusercontent|groups\.google'    > to-process-source.urls
+cat raw-source.urls | grep -E -e 'googleusercontent|groups\.google'    | \
+    sed -E  -f filter-all-urls.sed                                     > to-process-source.urls
 
 CURL=../../../platform/win32/bin/Release-Unicode-64bit-x64/curl.exe
 if ! test -f "${CURL}" ; then
