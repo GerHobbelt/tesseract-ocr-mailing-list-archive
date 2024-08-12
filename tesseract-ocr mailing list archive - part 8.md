@@ -6448,3 +6448,660 @@ Hello, Version 4.x is old, outdated, and unsupported. Use the current tesseract 
 
 
 Next page
+
+
+
+##   
+tesseract-ocr
+
+[
+
+Conversations
+
+
+
+](https://groups.google.com/g/tesseract-ocr)
+
+[
+
+About
+
+
+
+](https://groups.google.com/g/tesseract-ocr/about)
+
+[Privacy](https://policies.google.com/privacy?hl=en_US) • [Terms](https://policies.google.com/terms?hl=en_US)
+
+# tesseract-ocr
+
+Contact owners and managers
+
+1–30 of 7215
+
+
+
+
+
+Welcome,
+
+  
+
+Before sending an email to the group: 
+
+1. Please read [**Frequently Asked Questions**](https://tesseract-ocr.github.io/tessdoc/FAQ.html) 
+2. Make sure you read the [Tesseract documentation](https://tesseract-ocr.github.io/tessdoc) 
+3. Search internet sources (including this group) for a solution
+
+If you have a problem:
+
+- Provide all steps (including input resources) for its replication.
+- So not send a screenshot of the terminal - send the logs or copy text from a terminal.
+
+
+
+
+
+![Iain Downs's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjVQ1ju3NId3dpFS4mD47vE5VWzjQ0LWpIZkOHAb9kN0o41L54U=s28-c)
+
+[Iain Downs, Zdenko Podobny5](https://groups.google.com/g/tesseract-ocr/c/yCjNJ_XGcOQ)
+
+unread,
+
+[
+
+How to prevern Tesseract from interpreting noise as characters
+
+Zdenko - I've had a look at the sample code (in C++!) and tried it out on my files. It clearly
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/yCjNJ_XGcOQ)
+
+Aug 10
+
+
+
+![Danny's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjWVUYXRdSHSlA6pRpCXL5QiC3HGnic7AwdOSczWTLUSi2iKHg=s28-c)
+
+[Danny, … Tom Morris11](https://groups.google.com/g/tesseract-ocr/c/hwX_YFRUXf4)
+
+unread,
+
+[
+
+No output when Chinese Traditional followed by dots or ellipsis
+
+Yeah, that could be true. But still trying to figure out where in the code to put any new
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/hwX_YFRUXf4)
+
+Aug 10
+
+
+
+![Dariush Mazlumi's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjWt8rm_F6Szj2MORb-Oe3DXMVwxWA1lx6hRpeNZVNpVq0VvWUtP=s28-c)
+
+[Dariush Mazlumi, Mekuriaw Aze3](https://groups.google.com/g/tesseract-ocr/c/jFYqsFoSCl0)
+
+unread,
+
+[
+
+too many unrecognized words
+
+hello Mekuriaw I have no idea how to fix it. if I had, probably I wouldn't ask for help here :)
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/jFYqsFoSCl0)
+
+Aug 7
+
+
+
+![Sasha Ostrikov's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjV6yhVAfX1OMloleCF9CV9Spy0SsaHRhRbypx_ZX2RgeSnApi5Y=s28-c)
+
+[Sasha Ostrikov, … rohit humne11](https://groups.google.com/g/tesseract-ocr/c/4nRldXcW4pE)
+
+unread,
+
+[
+
+tesseract4.0 - Tesseract couldn't load any languages!
+
+I tried with following combinations "export TESSDATA_PREFIX=/usr/local/Cellar/tesseract/5.4.1/
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/4nRldXcW4pE)
+
+Aug 7
+
+
+
+![Seyedsoroush Hashemi's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjVq-3Kkaf4U4e5GjQ2iImuXhYZ_wjReb_S_KxrTLsoPBkdgYHXF=s28-c)
+
+[Seyedsoroush Hashemi, Dariush Mazlumi2](https://groups.google.com/g/tesseract-ocr/c/8fIcfkRuZFg)
+
+unread,
+
+[
+
+Avestan OCR
+
+hello Mr.Hashemi as another Iranian here, I'd like to help. however, I'm not aware of what
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/8fIcfkRuZFg)
+
+Aug 6
+
+
+
+![Emre Batu's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjVzIfNuY-EKt34Vp3siY_prUqdrRxlCxibyE4JSyoqckyr3Nw=s28-c)
+
+[Emre Batu, Zdenko Podobny3](https://groups.google.com/g/tesseract-ocr/c/DpfN8ssZVfU)
+
+unread,
+
+[
+
+Converting colored background and colored characters to text with the Tesseract library
+
+The link generating the mentioned captcha is as follows: https://medeczane.sgk.gov.tr/eczane/
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/DpfN8ssZVfU)
+
+Aug 6
+
+
+
+![Filip Bry's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjWJ6rtjNIo9H4SeATUr9dEsVP4eHlXuyMFiCMVx3ebDZsabPPAq=s28-c)
+
+[Filip Bry, Danny2](https://groups.google.com/g/tesseract-ocr/c/8_lGnbli8oo)
+
+unread,
+
+[
+
+Tesseract not working for some single examples.
+
+If you can, try pre-processing and inverting the image so it is black text on a white background. I
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/8_lGnbli8oo)
+
+Aug 5
+
+
+
+![Liam Doherty's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjVrMLeR0bXsFPDbuPvb8cZThjL5Xj_PTJWiBvjOlUaaUmUYzg=s28-c)
+
+[Liam Doherty, … Danny6](https://groups.google.com/g/tesseract-ocr/c/PN3MYPUx_28)
+
+unread,
+
+[
+
+why are there no new trained models since 2018?
+
+I recently retrained the chi_tra model with a new font. The existing model would confuse certain
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/PN3MYPUx_28)
+
+Aug 3
+
+
+
+![Jan Ploska's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUHwn2T3jAV0IHEdu2tbaz5jgo4V8a-ol6x7PC2OFYWABfOPg=s28-c)
+
+[Jan Ploska, … Danny4](https://groups.google.com/g/tesseract-ocr/c/SUIoBV2ZPbk)
+
+unread,
+
+[
+
+Chinise characters.
+
+I had many similar issues, especially with input with Yuan (rounded) fonts. In the end I found the
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/SUIoBV2ZPbk)
+
+Aug 3
+
+
+
+![UXUI design's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjW9LwknT48dbqV0F7fxld6JdagdXbqMuYY6NLbznpPgMJZkXA=s28-c)
+
+[UXUI design](https://groups.google.com/g/tesseract-ocr/c/HMjHnS4uPZg)
+
+unread,
+
+[
+
+drawing font in Russian language by GOST
+
+Hi everyone! Do tesseract-ocr have already trained drawing font in Russian language by GOST? Thx in
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/HMjHnS4uPZg)
+
+Aug 2
+
+
+
+![John S's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjXKJJwV4G7FPJ7T0T5qxNEQv79lbd0zwybjxFfx99Z-ieXM-bo=s28-c)
+
+[John S](https://groups.google.com/g/tesseract-ocr/c/N4rsWvdb8xs)
+
+unread,
+
+[
+
+Training a new font on windows. Help with exact command.
+
+I'm attempting to train tesseract for a new english font. ve created a folder ./output comprising
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/N4rsWvdb8xs)
+
+Aug 1
+
+
+
+![Péter Györök's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUpcKCS-tt4cdZ24RO5pic7N_TEIvbbcfnSzeQMMG7l8QUlViQ=s28-c)
+
+[Péter Györök, Zdenko Podobny3](https://groups.google.com/g/tesseract-ocr/c/jSS_3ql-Lmw)
+
+unread,
+
+[
+
+A few characters being misrecognized
+
+That might work for these particular ones but what if it breaks other cases (eg for characters not in
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/jSS_3ql-Lmw)
+
+Jul 26
+
+
+
+![Moz Khalaf's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjW0p7-GJpya11DAmBgR2VBsi0Rk7-CpYd6CpD9WiBykoWroWw=s28-c)
+
+[Moz Khalaf, Jeremiah2](https://groups.google.com/g/tesseract-ocr/c/xWpDtFdzuxA)
+
+unread,
+
+[
+
+RefernceError: Property 'Worker' doesn't exist
+
+In general, this group is for discussing the main Tesseract program. If you want to discuss issues
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/xWpDtFdzuxA)
+
+Jul 26
+
+
+
+![Ger Hobbelt's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjU04iFHIDTDBMIcursR73vTBTs-lKUtXDFPQzUFOqbvFwQu7ZY=s28-c)
+
+[Ger Hobbelt, Mekuriaw Aze2](https://groups.google.com/g/tesseract-ocr/c/4LJIXjua0U4)
+
+unread,
+
+[
+
+Re: [tesseract-ocr] Hey
+
+Thanks On Saturday, July 20, 2024 at 5:15:44 PM UTC+3 ger.h...@gmail.com wrote: Too little
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/4LJIXjua0U4)
+
+Jul 20
+
+
+
+![vizier87's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUtGc_U-LN4-npB-5b6h3M8pAvhdX92FUnLxheNmQqr1BSfzpaQ=s28-c)
+
+[vizier87, … Lorenzo Blz9](https://groups.google.com/g/tesseract-ocr/c/tpbNPaBnN40)
+
+unread,
+
+[
+
+thermography image issue
+
+Hi, it seems like the text has a fixed color with few shades all with low saturation. Drop everything
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/tpbNPaBnN40)
+
+Jul 20
+
+
+
+![Ajg's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjXpVtrls_4UC0H1HqckrWMbpKSRlBo3D8yLDsmDPWZf_XfRyg=s28-c)
+
+[Ajg](https://groups.google.com/g/tesseract-ocr/c/I8oPylcAKTc)
+
+unread,
+
+[
+
+Tesseract.net slow on page.gettext
+
+I have ac# .net application on Windows 10 that is extremely slow when processing the attached jpeg.
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/I8oPylcAKTc)
+
+Jul 18
+
+
+
+![Iain Downs's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjVQ1ju3NId3dpFS4mD47vE5VWzjQ0LWpIZkOHAb9kN0o41L54U=s28-c)
+
+[Iain Downs, … Karol Wójcik20](https://groups.google.com/g/tesseract-ocr/c/AI48y7_QMlg)
+
+unread,
+
+[
+
+Tessarct won't recognise single characters
+
+Thanks ger. I found DefaultPageSegMode (this in the c# tessearct package - not tried C++ yet, though
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/AI48y7_QMlg)
+
+Jul 15
+
+
+
+![Mateusz Matela's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjW5fs0zaWjb5P8N9YXGpOw0Rk5NcnFYziSllbrYmgy2lsgvLA=s28-c)
+
+[Mateusz Matela, Zdenko Podobny3](https://groups.google.com/g/tesseract-ocr/c/SfCUVwYJ6Vk)
+
+unread,
+
+[
+
+Tesseract training ground truth: I'm confused about the box files
+
+Ehm: Tesseract v3 (legacy) engine training is based on characters. Tesseract LSTM engine (tesseract
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/SfCUVwYJ6Vk)
+
+Jul 14
+
+
+
+![Nick_IQ's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjWEDC9lu-FJf4v8CU1f6rhkehNtTLMd3KMK_XDNooNbLN2b1Q=s28-c)
+
+[Nick_IQ, uday kaipa3](https://groups.google.com/g/tesseract-ocr/c/Pgvo7Bq5w5s)
+
+unread,
+
+[
+
+Confidence Scores in Pytesseract
+
+Hey, thanks for your help. It can definitely return "-1", but now I think that's not an
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/Pgvo7Bq5w5s)
+
+Jul 14
+
+
+
+![thangaraj r's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUtAGIq733NEJlIUNHeZ0Fy9uuHFcW0VN6Y1sbyklprYUqEOg=s28-c)
+
+[thangaraj r, Dominic Mukilan2](https://groups.google.com/g/tesseract-ocr/c/DY0KgUiwwTo)
+
+unread,
+
+[
+
+train tesseract
+
+Found how? On Tuesday 5 March, 2024 at 11:44:05 am UTC+5:30 sct.pyt...@gmail.com wrote: how to train
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/DY0KgUiwwTo)
+
+Jul 14
+
+
+
+![Dominic Mukilan's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjVEZ75QVXT_IWGpjngBqtQXU6ZM9uduNrBi5OmbKvA7Y7X1mZE=s28-c)
+
+[Dominic Mukilan](https://groups.google.com/g/tesseract-ocr/c/xtS4Xk2e2cY)
+
+unread,
+
+[
+
+Pytesseract not recognising ± (Urgent)
+
+Hi, I'm trying to identify text (mostly numbers) from an image (technical diagram) I have the
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/xtS4Xk2e2cY)
+
+Jul 14
+
+
+
+![Abhijeet Kumar's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUkp6kc8crdXlRwrW_5WLLrKya6oFYmGcRqCi_8sMMU8mxp7Q=s28-c-mo)
+
+[Abhijeet Kumar](https://groups.google.com/g/tesseract-ocr/c/6Kfm-jMH9Ig)
+
+unread,
+
+[
+
+barcode digit reading
+
+I want to detect barcode digits beneath the rectangles, but tesseract demands the text in the image
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/6Kfm-jMH9Ig)
+
+Jul 14
+
+
+
+![helong jin's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjX0JNctnObg45fdHRV9XiM8w9drOlccnqop8eRRYKqZ_keulg=s28-c)
+
+[helong jin](https://groups.google.com/g/tesseract-ocr/c/p-_vhQ_df3I)
+
+unread,
+
+[
+
+How to use Tesseract in a multi-threaded environment?
+
+Hello everyone, I'm currently trying to use Tesseract for text recognition in a multi-threaded
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/p-_vhQ_df3I)
+
+Jul 9
+
+
+
+![Stefano Leandro's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUP3cPryr3FJ3xp_d5ntOBpvZ-CvpQQDsVOBXuA6xMHoqzC0w=s28-c)
+
+[Stefano Leandro](https://groups.google.com/g/tesseract-ocr/c/poCD1lanR9U)
+
+unread,
+
+[
+
+Pytesseract on MAC
+
+I use pytesseract on Windows. I am having issues in using it on MAC. Someone can help me
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/poCD1lanR9U)
+
+Jul 8
+
+
+
+![Marcell Vas's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjUVVqL75Q2sRWpYWCyIpHzsL9bFo4OHTulw0ZBGJCjXqshyC7s=s28-c)
+
+[Marcell Vas](https://groups.google.com/g/tesseract-ocr/c/obwzaNZC61g)
+
+unread,
+
+[
+
+OCR Chapta resolve
+
+Hi! I want to resolve this chapta, with the ocr but its can't read the numbers. The icons is
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/obwzaNZC61g)
+
+Jul 8
+
+
+
+![uday kaipa's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjXHgtWP3efuqNborYSPIaxm6972WQ9JPryk7sVVaN5wpQ5C3A=s28-c-mo)
+
+[uday kaipa](https://groups.google.com/g/tesseract-ocr/c/dsCF0UGcTd8)
+
+unread,
+
+[
+
+unable to view training history plot after training- no tsv files.
+
+Hello, I have successfully fine-tunned tesseract for a font. I have tested it and it is working.
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/dsCF0UGcTd8)
+
+Jul 3
+
+
+
+![Josh's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjWuq0c-esPUhIL5J5uviG_dTJXxC4prBSLC4cQyxr4Aq2CKhsTk=s28-c)
+
+[Josh, … Tom Morris3](https://groups.google.com/g/tesseract-ocr/c/uiOC3ZuUFcA)
+
+unread,
+
+[
+
+Detected Malware latest Windows release | VirusTotal
+
+On Tuesday, July 2, 2024 at 12:16:03 AM UTC-4 joshbr...@gmail.com wrote: I was scanning the installer
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/uiOC3ZuUFcA)
+
+Jul 2
+
+
+
+![Ralph Cook's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjWz1R9HW7G7OOuqQP_ESdjeO1StxykgKTw_H86mxBXE_wIUig=s28-c)
+
+[Ralph Cook, Ger Hobbelt4](https://groups.google.com/g/tesseract-ocr/c/YLOkyuOMsrs)
+
+unread,
+
+[
+
+Suggestions wanted on how to improve recognition
+
+TIFF should be okay (IIRC that not a lossy compression format, usually). The advice re image formats
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/YLOkyuOMsrs)
+
+Jul 1
+
+
+
+![uday kaipa's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjXHgtWP3efuqNborYSPIaxm6972WQ9JPryk7sVVaN5wpQ5C3A=s28-c-mo)
+
+[uday kaipa, Zdenko Podobny6](https://groups.google.com/g/tesseract-ocr/c/IsfqLnbIofE)
+
+unread,
+
+[
+
+Text extraction failure after preprocessing.
+
+Thank you very much Zdenko. The traineddata resources were very helpful and i would try to train if
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/IsfqLnbIofE)
+
+Jul 1
+
+
+
+![lalit joshi's profile photo](https://lh3.googleusercontent.com/a-/ALV-UjXddcipwk3v2o3t-4bu2KqSU_iJ9GJaWnw1yXyIh4SSyAjVZoQj=s28-c)
+
+[lalit joshi, Ger Hobbelt2](https://groups.google.com/g/tesseract-ocr/c/uz6041Wnnnw)
+
+unread,
+
+[
+
+Tesseract Output not correct in hindi text.
+
+If you want more speed, give tesseract less to work on. Your scenario sounds like you will have a
+
+
+
+](https://groups.google.com/g/tesseract-ocr/c/uz6041Wnnnw)
+
+Jun 26
+
+
+
+
+
+
+
