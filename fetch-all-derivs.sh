@@ -5,6 +5,8 @@ pushd utils                         > /dev/null
 
 # Note: the last s/// rule is to convert a unicode space to regular space
 cat > filter-urls.sed  <<'EOF'
+s/groups[.]google[.]co[.]jp/groups.google.com/g
+s/groups[.]google[.]de/groups.google.com/g
 s/url\('data:[^']*'\)/  XXXXX  /g
 s/program-data="[^"]*"/  ZZZZZ  /g
 s/\b(url|src|href|srcset)=/  YYYYY  \1=/g
