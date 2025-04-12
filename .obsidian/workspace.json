@@ -13,26 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tesseract-ocr mailing list archive - part 7.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "40cb868fa205e796",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tesseract-ocr mailing list archive - part 8.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tesseract-ocr mailing list archive - part 8.md",
+                "file": "tesseract-ocr mailing list archive - part 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for tesseract-ocr mailing list archive - part 9"
             }
           },
           {
@@ -115,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tesseract-ocr mailing list archive - part 8.md",
+                "file": "tesseract-ocr mailing list archive - part 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from tesseract-ocr mailing list archive - part 9"
             }
           },
           {
@@ -129,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tesseract-ocr mailing list archive - part 8.md"
-              }
+                "file": "tesseract-ocr mailing list archive - part 9.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of tesseract-ocr mailing list archive - part 9"
             }
           }
         ]
@@ -159,33 +163,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40cb868fa205e796",
+  "active": "04144f540dff05e6",
   "lastOpenFiles": [
-    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjXy8yM_FM1riiqhib5t2lKRq7ggEpUFW8MTZWqODvcjkSUi3Rly.jpeg",
-    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjXmQTrilmBIYMgMHGhqhA2TgDyT_-uO0lIq4KhMzQwjPMo8VA.png",
-    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjXKn7KRtgQWJb13K4VVZyaBZAViiw2C9oUf-XqL1-IGdtY2WblS.png",
-    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjXijnuum57QpAQmuGgj3uY2aEByppydqxF0lkbJsymPmWYOKP1z.jpeg",
-    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjXd2g07yXccdgICl3OqG6TiJ3Y_sOLYRQszCSTBlEYNzmH2rAOI.jpeg",
-    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjXcu0txzwXfazHLjAZCC97NTmH8SZNmYySg-iH7cXOf7B1BfQ.png",
-    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjXCestA3LcDUOZ4xW4gBm2_ax1bYdN11dzv0dn5MwGpWJNpHN8.png",
-    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjX9hSOEDLIpeSt7_B0NB3NbxyPApTZByVoFZbC_EP5znOp8cpfn.jpeg",
-    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjX8ip97cs5YkkhqTgQdcdw-4I3UvXUO4z2l4JCo3TYPf4JLow.png",
-    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjX6KUVYyPCcfdNJI84O3NKlC4-zXmCQnugIcz7B68TT1q1fWA.png",
-    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjX3lVYza7vDsTw0-wTcFvo87IR0nqijkuds1JJHaal09SjishrEcA.jpeg",
-    "raw-grabs/https/groups.google.com/group/tesseract-dev/attach/eeaf6af25cedd737/2012-03-03.patch_part=0.1",
-    "raw-grabs/https/groups.google.com/group/tesseract-dev/attach/eeaf6af25cedd737/2012-03-03.patch.plain",
-    "raw-grabs/https/groups.google.com/group/tesseract-dev/attach/eeaf6af25cedd737",
-    "raw-grabs/https/groups.google.com/group/tesseract-dev/attach/9d00579540e44055/2012-03-07MakePageIterator-ResultIteratorVisible.patch_part=0.1",
-    "raw-grabs/https/groups.google.com/group/tesseract-dev/attach/9d00579540e44055/2012-03-07MakePageIterator-ResultIteratorVisible.patch.plain",
-    "raw-grabs/https/groups.google.com/group/tesseract-dev/attach/9d00579540e44055",
-    "raw-grabs/https/groups.google.com/group/tesseract-dev/attach/6da2799cd2cb9844/2012-03-07WINDOWDLLfix.patch_part=0.1",
-    "raw-grabs/https/groups.google.com/group/tesseract-dev/attach/6da2799cd2cb9844/2012-03-07WINDOWDLLfix.patch.plain",
-    "raw-grabs/https/groups.google.com/group/tesseract-dev/attach/6da2799cd2cb9844",
-    "raw-grabs/https/groups.google.com/group/tesseract-dev/attach/621403d56ade6f95/trial_visibilty_for_r684.patch_part=0.1",
+    "tesseract-ocr mailing list archive - part 1.md",
+    "tesseract-ocr mailing list archive - part 2.md",
+    "tesseract-ocr mailing list archive - part 3.md",
+    "tesseract-ocr mailing list archive - part 4.md",
+    "tesseract-ocr mailing list archive - part 5.md",
+    "tesseract-ocr mailing list archive - part 6.md",
     "tesseract-ocr mailing list archive - part 7.md",
     "tesseract-ocr mailing list archive - part 8.md",
-    "README.md",
-    "tesseract-ocr mailing list archive - part 1.md",
-    "tesseract-ocr mailing list archive - part 6.md"
+    "tesseract-ocr mailing list archive - part 10.md",
+    "tesseract-ocr mailing list archive - part 9.md",
+    "raw-grabs/https/static.googleusercontent.com/media/__download__.html",
+    "raw-grabs/https/static.googleusercontent.com/media",
+    "raw-grabs/https/static.googleusercontent.com",
+    "raw-grabs/https/lh3.googleusercontent.com/a/default-user.png",
+    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjXZzHFvBEyyM_jYoqHjzY0CrNcabFrnyHYCQ1UrM9vV7njPpg.png",
+    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjXzyvi-vwHWU-SmkDcfqGAjQ51moPxhAGPuQxOSQGoaThg.jpeg",
+    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjXzX2oVP-HoxTmlq9a-0N2SFhk6u0VSgIHfNOIAb7nlmnI.jpeg",
+    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjXZVRwY1NaDvo6vw1ld2luFA228hQ1_d2IkxeFCGivm.png",
+    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjXzSRc2ReOD0JNyWfPUlH5HYbVHVVYbuJ5tVkvG1ZkX.png",
+    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjXZpeQeeWuDDJRY-xsA52S9y-oWKaz7XeLvIKHVpMmxo9A.jpeg",
+    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjXZNDsAbxXNyau7_ZX-YrYSTrJaLVtCpdtaQWuKw2dunH7d.jpeg",
+    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjXzKX7-35jZHwXAfg4p2f386BDttJcvfEfTTD15vJxGz-0.png",
+    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjXZKLSKrsfQy-xGRIaGq9j5uhbU5RvMcPT_uwl3IA64A-0.jpeg",
+    "raw-grabs/https/lh3.googleusercontent.com/a-/ALV-UjUmfYjv-eIF_k5pB3N-qbP0VsLrlXebDxk-YegiQY6_1f1d.html",
+    "raw-grabs/https/lh3.googleusercontent.com/a-",
+    "raw-grabs/https/lh3.googleusercontent.com/a",
+    "raw-grabs/https/lh3.googleusercontent.com/_p-XgqnEJowA/TWZtI-MBneI/AAAAAAAAABU/DEWkgFdLUBM",
+    "raw-grabs/https/lh3.googleusercontent.com/_p-XgqnEJowA/TWZtI-MBneI/AAAAAAAAABU",
+    "raw-grabs/https/lh3.googleusercontent.com/_p-XgqnEJowA/TWZtI-MBneI",
+    "raw-grabs/https/lh3.googleusercontent.com/_p-XgqnEJowA",
+    "README.md"
   ]
 }
