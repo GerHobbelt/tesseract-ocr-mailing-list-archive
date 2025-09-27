@@ -29182,7 +29182,7 @@ unread,
 
 [
 
-trying to ocr with my new trained data,got an error:read_params_file parameter not found, no paramter indicated
+trying to ocr with my new trained data,got an error:read_params_file parameter not found, no parameter indicated
 
 I guess you don't have your test.traineddata file in tesseract-ocr\tessdata folder. On Friday,
 
@@ -35912,7 +35912,7 @@ unread,
 
 German special characters
 
-I was hoping that there's a paramter to limit line size. Something like xy pixel or % below the
+I was hoping that there's a parameter to limit line size. Something like xy pixel or % below the
 
 
 
