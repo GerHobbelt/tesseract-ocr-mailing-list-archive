@@ -128,3 +128,13 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# fetched web / mailing list RAW content
+/raw-grabs/
+
+# intermediate files produced by the web scraper scripts
+/utils/filter-urls.sed
+/utils/filter-urls2.sed
+/utils/*.intermed.*
+/utils/tmp.*
+
