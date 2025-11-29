@@ -71,7 +71,7 @@ cat tmp.derivs.urls 																		| \
     grep -E -e 'http' | grep -E -e 'googleusercontent|groups\.google'                       | \
 	sort | uniq > to-process-derivs-source.urls
 
-CURL=../../../platform/win32/bin/Release-Unicode-64bit-x64/curl.exe
+CURL=../../../platform/win32/curl.exe
 if ! test -f "${CURL}" ; then
     CURL=curl
 fi

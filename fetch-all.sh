@@ -14,7 +14,7 @@ cat raw-source.urls | grep -E -e 'googleusercontent|groups\.google' -v > ignored
 cat raw-source.urls | grep -E -e 'googleusercontent|groups\.google'    | \
     sed -E  -f filter-all-urls.sed                                     > to-process-source.urls
 
-CURL=../../../platform/win32/bin/Release-Unicode-64bit-x64/curl.exe
+CURL=../../../platform/win32/curl.exe
 if ! test -f "${CURL}" ; then
 	CURL=curl
 fi
